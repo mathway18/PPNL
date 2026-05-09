@@ -18,8 +18,10 @@ env/
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/
 
-# Model outputs and large generated files (re-run scripts to regenerate)
-outputs/
+# Model checkpoints and large generated files (re-run scripts to regenerate)
+outputs/*
+!outputs/task2/
+!outputs/task2/**
 
 # Editor / OS artefacts
 .DS_Store

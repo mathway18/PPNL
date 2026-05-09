@@ -119,7 +119,7 @@ def main() -> None:
         gold_rate = result.get("gold_success_rate", 0)
         bad_rate = result.get("bad_action_fail_rate", 0)
 
-        mark = "✓" if status == "PASS" else "✗"
+        mark = "OK" if status == "PASS" else "FAIL"
         print(
             f"[{mark}] {f}  n={n}  gold_success={gold_rate:.4f}  bad_fail={bad_rate:.4f}  [{status}]"
         )

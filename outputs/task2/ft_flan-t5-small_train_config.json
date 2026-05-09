@@ -1,0 +1,21 @@
+{
+  "model_name": "google/flan-t5-small",
+  "train_file": "data\\single_goal\\6x6\\train.jsonl",
+  "valid_file": "data\\single_goal\\6x6\\valid.jsonl",
+  "prompt_style": "finetune",
+  "n_train": 1000,
+  "n_valid": 200,
+  "max_source_length": 768,
+  "max_target_length": 64,
+  "metrics": {
+    "eval_loss": 0.35189276933670044,
+    "eval_parse_rate": 1.0,
+    "eval_action_exact_match": 0.57,
+    "eval_avg_pred_len": 4.11,
+    "eval_avg_gold_len": 4.12,
+    "eval_runtime": 6.0636,
+    "eval_samples_per_second": 32.984,
+    "eval_steps_per_second": 4.123,
+    "epoch": 20.0
+  }
+}

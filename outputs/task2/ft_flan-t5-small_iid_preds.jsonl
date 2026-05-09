@@ -1,0 +1,200 @@
+{"id": "test_iid_000001", "prediction": "up right right", "raw_prediction": "up right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000002", "prediction": "left", "raw_prediction": "left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000003", "prediction": "down down down left", "raw_prediction": "down down down left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000004", "prediction": "up up left left left", "raw_prediction": "up up left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000005", "prediction": "down down down left left left", "raw_prediction": "down down down left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000006", "prediction": "down down down right", "raw_prediction": "down down down right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000007", "prediction": "down down down down", "raw_prediction": "down down down down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000008", "prediction": "down down", "raw_prediction": "down down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000009", "prediction": "up up up up", "raw_prediction": "up up up up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000010", "prediction": "down down left left", "raw_prediction": "down down left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000011", "prediction": "up up right", "raw_prediction": "up up right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000012", "prediction": "down down left left", "raw_prediction": "down down left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000013", "prediction": "right right", "raw_prediction": "right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000014", "prediction": "up right", "raw_prediction": "up right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000015", "prediction": "up up up up up left", "raw_prediction": "up up up up up left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000016", "prediction": "up right", "raw_prediction": "up right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000017", "prediction": "down left left", "raw_prediction": "down left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000018", "prediction": "down down down left left left", "raw_prediction": "down down down left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000019", "prediction": "up up left left", "raw_prediction": "up up left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000020", "prediction": "up up left left", "raw_prediction": "up up left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000021", "prediction": "up left left", "raw_prediction": "up left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000022", "prediction": "down down down left left left", "raw_prediction": "down down down left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000023", "prediction": "down down down right right right", "raw_prediction": "down down down right right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000024", "prediction": "down down down right right right", "raw_prediction": "down down down right right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000025", "prediction": "up up up right right right right right", "raw_prediction": "up up up right right right right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000026", "prediction": "down down", "raw_prediction": "down down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000027", "prediction": "up up right right right", "raw_prediction": "up up right right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000028", "prediction": "right right", "raw_prediction": "right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000029", "prediction": "up right", "raw_prediction": "up right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000030", "prediction": "up up", "raw_prediction": "up up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000031", "prediction": "down down", "raw_prediction": "down down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000032", "prediction": "up up right right right right", "raw_prediction": "up up right right right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000033", "prediction": "down left left", "raw_prediction": "down left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000034", "prediction": "up up up up right right", "raw_prediction": "up up up up right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000035", "prediction": "right right right", "raw_prediction": "right right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000036", "prediction": "down down right right", "raw_prediction": "down down right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000037", "prediction": "up up up left left left left", "raw_prediction": "up up up left left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000038", "prediction": "right right right right up", "raw_prediction": "right right right right up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000039", "prediction": "down down down down left left", "raw_prediction": "down down down down left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000040", "prediction": "up left left left left", "raw_prediction": "up left left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000041", "prediction": "up left left left left", "raw_prediction": "up left left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000042", "prediction": "down right right", "raw_prediction": "down right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000043", "prediction": "up up right right right right", "raw_prediction": "up up right right right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000044", "prediction": "down down down left", "raw_prediction": "down down down left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000045", "prediction": "down down left left", "raw_prediction": "down down left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000046", "prediction": "up up up up up left left", "raw_prediction": "up up up up up left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000047", "prediction": "down left", "raw_prediction": "down left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000048", "prediction": "down right", "raw_prediction": "down right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000049", "prediction": "up up", "raw_prediction": "up up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000050", "prediction": "down down", "raw_prediction": "down down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000051", "prediction": "down down right", "raw_prediction": "down down right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000052", "prediction": "up up right right", "raw_prediction": "up up right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000053", "prediction": "down down left", "raw_prediction": "down down left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000054", "prediction": "up up", "raw_prediction": "up up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000055", "prediction": "left up left", "raw_prediction": "left up left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000056", "prediction": "down right right down right down", "raw_prediction": "down right right down right down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000057", "prediction": "up up up up right right", "raw_prediction": "up up up up right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000058", "prediction": "right down", "raw_prediction": "right down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000059", "prediction": "up left left left left", "raw_prediction": "up left left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000060", "prediction": "down", "raw_prediction": "down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000061", "prediction": "down down right", "raw_prediction": "down down right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000062", "prediction": "up up up right", "raw_prediction": "up up up right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000063", "prediction": "up right right right", "raw_prediction": "up right right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000064", "prediction": "down down right right right right right", "raw_prediction": "down down right right right right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000065", "prediction": "up up up right right", "raw_prediction": "up up up right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000066", "prediction": "up left", "raw_prediction": "up left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000067", "prediction": "down down", "raw_prediction": "down down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000068", "prediction": "left up up left left", "raw_prediction": "left up up left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000069", "prediction": "up up up left left left up", "raw_prediction": "up up up left left left up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000070", "prediction": "down down down left", "raw_prediction": "down down down left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000071", "prediction": "up up up up left left", "raw_prediction": "up up up up left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000072", "prediction": "down right down", "raw_prediction": "down right down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000073", "prediction": "down down down right right down right", "raw_prediction": "down down down right right down right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000074", "prediction": "left", "raw_prediction": "left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000075", "prediction": "up up up up up left", "raw_prediction": "up up up up up left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000076", "prediction": "down down left left left down", "raw_prediction": "down down left left left down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000077", "prediction": "up up up up up right up", "raw_prediction": "up up up up up right up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000078", "prediction": "down down down down down left left down", "raw_prediction": "down down down down down left left down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000079", "prediction": "down left", "raw_prediction": "down left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000080", "prediction": "right", "raw_prediction": "right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000081", "prediction": "down left", "raw_prediction": "down left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000082", "prediction": "down down left left left left", "raw_prediction": "down down left left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000083", "prediction": "down left left", "raw_prediction": "down left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000084", "prediction": "up up", "raw_prediction": "up up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000085", "prediction": "down down down left left down", "raw_prediction": "down down down left left down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000086", "prediction": "up up left left", "raw_prediction": "up up left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000087", "prediction": "down right right", "raw_prediction": "down right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000088", "prediction": "right", "raw_prediction": "right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000089", "prediction": "right", "raw_prediction": "right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000090", "prediction": "up right", "raw_prediction": "up right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000091", "prediction": "up up up up up left left left left left", "raw_prediction": "up up up up up left left left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000092", "prediction": "right right right", "raw_prediction": "right right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000093", "prediction": "up up right right right right up right", "raw_prediction": "up up right right right right up right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000094", "prediction": "down down", "raw_prediction": "down down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000095", "prediction": "left left left left", "raw_prediction": "left left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000096", "prediction": "down left left", "raw_prediction": "down left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000097", "prediction": "down left left", "raw_prediction": "down left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000098", "prediction": "up up up up right right right", "raw_prediction": "up up up up right right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000099", "prediction": "right", "raw_prediction": "right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000100", "prediction": "right down down down right", "raw_prediction": "right down down down right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000101", "prediction": "down right", "raw_prediction": "down right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000102", "prediction": "up up right right right", "raw_prediction": "up up right right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000103", "prediction": "up left left left left", "raw_prediction": "up left left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000104", "prediction": "up up up right right", "raw_prediction": "up up up right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000105", "prediction": "up left left", "raw_prediction": "up left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000106", "prediction": "down left", "raw_prediction": "down left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000107", "prediction": "down down down down right", "raw_prediction": "down down down down right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000108", "prediction": "up right", "raw_prediction": "up right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000109", "prediction": "down down right right", "raw_prediction": "down down right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000110", "prediction": "up up left left left left", "raw_prediction": "up up left left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000111", "prediction": "right", "raw_prediction": "right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000112", "prediction": "left", "raw_prediction": "left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000113", "prediction": "down", "raw_prediction": "down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000114", "prediction": "left left up up", "raw_prediction": "left left up up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000115", "prediction": "down down down right", "raw_prediction": "down down down right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000116", "prediction": "down down down left left left", "raw_prediction": "down down down left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000117", "prediction": "down down", "raw_prediction": "down down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000118", "prediction": "right right right", "raw_prediction": "right right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000119", "prediction": "up right right right up", "raw_prediction": "up right right right up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000120", "prediction": "down down down", "raw_prediction": "down down down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000121", "prediction": "down", "raw_prediction": "down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000122", "prediction": "down", "raw_prediction": "down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000123", "prediction": "up right", "raw_prediction": "up right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000124", "prediction": "down left left left", "raw_prediction": "down left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000125", "prediction": "down down", "raw_prediction": "down down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000126", "prediction": "down left left", "raw_prediction": "down left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000127", "prediction": "down down down down down", "raw_prediction": "down down down down down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000128", "prediction": "up left left down", "raw_prediction": "up left left down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000129", "prediction": "down down right right right", "raw_prediction": "down down right right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000130", "prediction": "down down", "raw_prediction": "down down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000131", "prediction": "down down down down right down right down", "raw_prediction": "down down down down right down right down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000132", "prediction": "down down down down left left left down", "raw_prediction": "down down down down left left left down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000133", "prediction": "down left left left left", "raw_prediction": "down left left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000134", "prediction": "down right right right", "raw_prediction": "down right right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000135", "prediction": "down down down left left left left", "raw_prediction": "down down down left left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000136", "prediction": "down down down down left left left", "raw_prediction": "down down down down left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000137", "prediction": "down left", "raw_prediction": "down left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000138", "prediction": "down", "raw_prediction": "down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000139", "prediction": "down down left left", "raw_prediction": "down down left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000140", "prediction": "down down down right right down right right right down", "raw_prediction": "down down down right right down right right right down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000141", "prediction": "up right right right", "raw_prediction": "up right right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000142", "prediction": "up right right right up", "raw_prediction": "up right right right up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000143", "prediction": "down left", "raw_prediction": "down left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000144", "prediction": "down down down", "raw_prediction": "down down down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000145", "prediction": "up left left left down", "raw_prediction": "up left left left down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000146", "prediction": "down down down right", "raw_prediction": "down down down right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000147", "prediction": "down right", "raw_prediction": "down right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000148", "prediction": "down down down right right", "raw_prediction": "down down down right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000149", "prediction": "up up up right", "raw_prediction": "up up up right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000150", "prediction": "down down down down", "raw_prediction": "down down down down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000151", "prediction": "right", "raw_prediction": "right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000152", "prediction": "left left", "raw_prediction": "left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000153", "prediction": "right right", "raw_prediction": "right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000154", "prediction": "up up", "raw_prediction": "up up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000155", "prediction": "down down left left", "raw_prediction": "down down left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000156", "prediction": "down left left left left", "raw_prediction": "down left left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000157", "prediction": "down down right right", "raw_prediction": "down down right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000158", "prediction": "right right", "raw_prediction": "right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000159", "prediction": "down right", "raw_prediction": "down right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000160", "prediction": "down down down left left", "raw_prediction": "down down down left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000161", "prediction": "down down down down right", "raw_prediction": "down down down down right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000162", "prediction": "left left", "raw_prediction": "left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000163", "prediction": "down down down down down right right down right", "raw_prediction": "down down down down down right right down right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000164", "prediction": "right right right right right up", "raw_prediction": "right right right right right up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000165", "prediction": "down down", "raw_prediction": "down down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000166", "prediction": "right", "raw_prediction": "right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000167", "prediction": "down right right down", "raw_prediction": "down right right down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000168", "prediction": "down down left", "raw_prediction": "down down left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000169", "prediction": "down down down left left", "raw_prediction": "down down down left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000170", "prediction": "up up right right up", "raw_prediction": "up up right right up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000171", "prediction": "down down", "raw_prediction": "down down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000172", "prediction": "up up up up up left left left", "raw_prediction": "up up up up up left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000173", "prediction": "left", "raw_prediction": "left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000174", "prediction": "up up right", "raw_prediction": "up up right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000175", "prediction": "down left left", "raw_prediction": "down left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000176", "prediction": "left left left left up left", "raw_prediction": "left left left left up left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000177", "prediction": "right right right down", "raw_prediction": "right right right down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000178", "prediction": "down down down down down left", "raw_prediction": "down down down down down left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000179", "prediction": "down left left left down", "raw_prediction": "down left left left down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000180", "prediction": "up up right right right", "raw_prediction": "up up right right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000181", "prediction": "up", "raw_prediction": "up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000182", "prediction": "down down down left left", "raw_prediction": "down down down left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000183", "prediction": "down left", "raw_prediction": "down left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000184", "prediction": "down down left", "raw_prediction": "down down left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000185", "prediction": "down down left left", "raw_prediction": "down down left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000186", "prediction": "down down down right right right", "raw_prediction": "down down down right right right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000187", "prediction": "down down left left left", "raw_prediction": "down down left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000188", "prediction": "up up up right", "raw_prediction": "up up up right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000189", "prediction": "up up up", "raw_prediction": "up up up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000190", "prediction": "up", "raw_prediction": "up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000191", "prediction": "right right right right right up", "raw_prediction": "right right right right right up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000192", "prediction": "up up up up", "raw_prediction": "up up up up", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000193", "prediction": "down", "raw_prediction": "down", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000194", "prediction": "left", "raw_prediction": "left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000195", "prediction": "down down down down left left left left", "raw_prediction": "down down down down left left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000196", "prediction": "up up left", "raw_prediction": "up up left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000197", "prediction": "up up up up up left left left", "raw_prediction": "up up up up up left left left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000198", "prediction": "down down down right", "raw_prediction": "down down down right", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000199", "prediction": "down left", "raw_prediction": "down left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
+{"id": "test_iid_000200", "prediction": "down down left", "raw_prediction": "down down left", "prompt_style": "finetune", "model": "E:\\PPNL_outputs\\finetuned\\flan-t5-small-grid"}
