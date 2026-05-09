@@ -22,6 +22,9 @@ env/
 outputs/*
 !outputs/task2/
 !outputs/task2/**
+!outputs/finetuned/
+!outputs/finetuned/flan-t5-small-grid/
+!outputs/finetuned/flan-t5-small-grid/**
 
 # Editor / OS artefacts
 .DS_Store
